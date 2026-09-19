@@ -9,7 +9,7 @@
 
 ## Supervisor
 
-Supervisor Name: R. Geethika Chowdary
+Supervisor Name: K.Rakesh
 
 ## Abstract
 
