@@ -9,7 +9,7 @@
 
 ## Supervisor
 
-Supervisor Name: YOUR SUPERVISOR NAME
+Supervisor Name: R. Geethika Chowdary
 
 ## Abstract
 
