@@ -9,7 +9,7 @@
 
 ## Supervisor
 
-Supervisor Name: K.Rakesh
+Supervisor Name: K.Rakesh Sir
 
 ## Abstract
 
