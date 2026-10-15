@@ -1,0 +1,63 @@
+Enter Customer Name: Geethika
+--- Restaurant Menu ---
+1. Biryani - Rs. 200.0
+2. Pizza - Rs. 250.0
+3. Burger - Rs. 120.0
+4. Finish Order
+5. Show Sorted Price List
+Enter your choice: 1
+Enter Quantity: 2
+Item added successfully.
+Quantity check completed.
+--- Restaurant Menu ---
+1. Biryani - Rs. 200.0
+2. Pizza - Rs. 250.0
+3. Burger - Rs. 120.0
+4. Finish Order
+5. Show Sorted Price List
+Enter your choice: 2
+Enter Quantity: 1
+Item added successfully.
+Quantity check completed.
+--- Restaurant Menu ---
+1. Biryani - Rs. 200.0
+2. Pizza - Rs. 250.0
+3. Burger - Rs. 120.0
+4. Finish Order
+5. Show Sorted Price List
+Enter your choice: 4
+Enter Kitchen Status (1-3): 2
+--- Order Details ---
+Customer: Geethika
+Biryani x 2 = Rs. 400.00
+Pizza x 1 = Rs. 250.00
+Total Items: 3
+--- Kitchen ---
+Order Status: Preparing
+--- Stream Reports ---
+Unique Ordered Items: [Biryani, Pizza]
+Quantity by Food: {Biryani=2, Pizza=1}
+Items priced Rs. 200 or more: 2
+Total Quantity: 3
+Average Unit Price: Rs. 225.00
+Highest-Priced Item: Pizza - Rs. 250.0
+Item Summary: Biryani, Pizza
+--- Bill ---
+Subtotal: Rs. 650.00
+Discount: Rs. 32.50
+Tax (5%): Rs. 30.88
+Total Bill: Rs. 648.38
+Report saved to OrderReport.txt
+--- Saved Report ---
+RESTAURANT ORDER REPORT
+Customer: Geethika
+Biryani x 2 = Rs. 400.00
+Pizza x 1 = Rs. 250.00
+Total Items: 3
+Subtotal: Rs. 650.00
+Discount: Rs. 32.50
+Tax (5%): Rs. 30.88
+Total Bill: Rs. 648.38
+Kitchen Status: Preparing
+Unique Ordered Items: Biryani, Pizza
+Quantity by Food: {Biryani=2, Pizza=1}

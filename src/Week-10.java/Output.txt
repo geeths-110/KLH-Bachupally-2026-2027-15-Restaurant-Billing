@@ -1,0 +1,52 @@
+Enter Customer Name: Vaishnavi
+--- Restaurant Menu ---
+1. Burger - Rs. 120.0
+2. Biryani - Rs. 200.0
+3. Pizza - Rs. 250.0
+4. Finish Order
+5. Search Menu Item
+Enter your choice: 2
+Enter Quantity: 2
+Quantity check completed.
+--- Restaurant Menu ---
+1. Burger - Rs. 120.0
+2. Biryani - Rs. 200.0
+3. Pizza - Rs. 250.0
+4. Finish Order
+5. Search Menu Item
+Enter your choice: 3
+Enter Quantity: 1
+Quantity check completed.
+--- Restaurant Menu ---
+1. Burger - Rs. 120.0
+2. Biryani - Rs. 200.0
+3. Pizza - Rs. 250.0
+4. Finish Order
+5. Search Menu Item
+Enter your choice: 4
+Enter Kitchen Status (1-3): 2
+--- Order Details ---
+Customer: Geethika
+Biryani x 2 = Rs. 400.00
+Pizza x 1 = Rs. 250.00
+Total Items: 3
+--- Kitchen ---
+Order Status: Preparing
+--- Bill ---
+Subtotal: Rs. 650.00
+Discount: Rs. 32.50
+Tax (5%): Rs. 30.88
+Total Bill: Rs. 648.38
+Report saved to OrderReport.txt
+--- Saved Report ---
+RESTAURANT ORDER REPORT
+Customer: Geethika
+Ordered Items:
+Biryani x 2 = Rs. 400.00
+Pizza x 1 = Rs. 250.00
+Total Items: 3
+Subtotal: Rs. 650.00
+Discount: Rs. 32.50
+Tax (5%): Rs. 30.88
+Total Bill: Rs. 648.38
+Kitchen Status: Preparing

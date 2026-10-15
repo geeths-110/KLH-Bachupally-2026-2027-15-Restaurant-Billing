@@ -1,0 +1,21 @@
+Enter Customer Name: Geethika
+Enter Food Item: Biryani
+Enter Quantity: 2
+Enter Price per Item: 180
+
+--- Order Details ---
+Customer: Vaishnavi
+Food Item: Biryani
+Quantity: 2
+Price per Item: ₹180.0
+
+--- Kitchen ---
+Order Status: Pending
+Order Status: Preparing
+Order Status: Ready
+
+--- Bill ---
+Customer: Geethika
+Item: Biryani
+Quantity: 2
+Total Bill: ₹360.0

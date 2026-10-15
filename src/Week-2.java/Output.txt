@@ -1,0 +1,18 @@
+Enter Customer Name: Vaishnavi
+Enter Food Item: Biryani
+Enter Quantity: 2
+Enter Price per Item: 180
+
+--- Order Details ---
+Customer: Vaishnavi
+Food Item: Biryani
+Quantity: 2
+Price per Item: ₹180.00
+
+--- Kitchen ---
+Order Status: Pending
+
+--- Bill ---
+Subtotal: ₹360.00
+Tax (5%): ₹18.00
+Total Bill: ₹378.00
